@@ -1,4 +1,4 @@
-# mtltrajet
+# DataDrivenChoiceModelling
 
 purpose = {
     0: [null], 1: work, 2: education, 3: home, 4: errand, 5: health,
